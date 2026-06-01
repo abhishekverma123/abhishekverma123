@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abhishek Verma 👋
 
-<!--
-**abhishekverma123/abhishekverma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer with 2 years of experience building backend applications and REST APIs using Java, Spring Boot, Hibernate, and PLSQL.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Java 8
+* Design Pattern
+* Spring Framework
+* Spring Boot
+* Spring MVC
+* Hibernate / JPA
+* REST APIs
+* PLSQL / Oracle SQL
+* Maven
+* Git & GitHub
+* Eclipse
+* vs code
+
+## Currently Learning
+
+* Spring Security
+* Microservices
+* System Design
+
+## Connect with me
+
+📍 Kangra, Himachal Pradesh
+📧 [abhishek.18bcs1726@gmail.com](mailto:abhishek.18bcs1726@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/abhishek-v-3919551bb/
+🐙 GitHub: https://github.com/abhishekverma123
